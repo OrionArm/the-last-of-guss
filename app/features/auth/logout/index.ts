@@ -1,0 +1,1 @@
+export { logoutRequested } from './model';

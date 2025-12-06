@@ -1,0 +1,1 @@
+export { tapRequested } from './model';
